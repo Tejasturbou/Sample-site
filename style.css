@@ -334,12 +334,81 @@ p{
 	font-size: 20px;
 	font-weight: 800;
 	border: none;
-	padding: 10px 25px;
+	padding: 4px 20px;
 	margin-top: 20px;
 	height: 10%;
 }
 
 #learn_more {
 	padding-top: 30px;
+	padding-bottom: 30px;
 	background: #969696;
+}
+
+#form_div_1 {
+	padding: 10px;
+}
+
+#form_div_1 input{
+	width: 35%;
+	height: 36px;
+	margin: 6px;
+	border: 1px solid #ffcc2e;
+
+}
+
+#form_div_2 {
+	padding: 10px;
+}
+
+#form_div_2 input{
+	width: 35%;
+	height: 36px;
+	border: 1px solid #ffcc2e;
+	position: relative;
+	left: -91px;
+}
+
+#form_div_2 button{
+	width: 23%;
+	height: 40px;
+	text-align: left;
+	border: 1px solid #ffcc2e;
+	color: #fff;
+	background-color: transparent;
+	position: relative;
+	left: -78px;
+}
+
+#questions {
+	padding: 40px 30px 15px 30px;
+}
+
+form div>label {
+	text-align: center;
+	color: #ffca1a;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#form_div_3 input{
+	width: 70%;
+	height: 60px;
+	border: 1px solid #ffcc2e;
+}
+
+#submit {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#submit button {
+	font-family: 'Montserrat', sans-serif;
+	background: #ffcc2e;
+	font-size: 20px;
+	font-weight: 800;
+	border: none;
+	padding: 4px 20px;
+	margin-top: 20px;
+	height: 10%;
 }
